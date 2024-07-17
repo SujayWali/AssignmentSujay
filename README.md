@@ -21,3 +21,8 @@
 - Search or Filter data by the "Managed By" field.
 - Expandable rows to show additional details.
 
+## Additional features
+- This application is hosted on vercel.
+- use Link: https://assignment-sujay.vercel.app/ to access the live application.
+
+
